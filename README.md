@@ -97,7 +97,7 @@ sentiment analysis.
 ## Author
 
 Mehreen Rauf
-MSc Business Analytics — University of Wollongong in Dubai
+MS Business Analytics — University of Wollongong in Dubai
 Consumer Insights | Data Analytics | UAE Market Research
 
 [LinkedIn](https://www.linkedin.com/in/mehreen-rauf/)
